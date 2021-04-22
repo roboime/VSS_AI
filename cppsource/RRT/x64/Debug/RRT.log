@@ -1,0 +1,386 @@
+﻿  pch.c
+  dllmain.c
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(427,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(445,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(576,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(613,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(627,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(652,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(690,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\saving.h(109,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\allocator.h(199,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(448,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(456,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\dllmain.c(56,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\dllmain.c(56,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\dllmain.c(87,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\dllmain.c(101,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(262,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(260): message : while compiling class template member function 'void flann::lsh::LshTable<unsigned char>::initialize(size_t)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(360): message : see reference to function template instantiation 'void flann::lsh::LshTable<unsigned char>::initialize(size_t)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(358): message : see reference to class template instantiation 'flann::lsh::LshTable<unsigned char>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(340,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(313): message : while compiling class template member function 'int flann::NNIndex<Distance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<size_t> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(131): message : see reference to class template instantiation 'flann::NNIndex<Distance>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(130): message : while compiling class template member function 'flann::Index<flann::L2_Simple<float>>::~Index(void)'
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Tree.h(60): message : see reference to class template instantiation 'flann::Index<flann::L2_Simple<float>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(355,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Environment.c
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(427,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(445,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(576,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(613,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(627,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(652,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(690,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\saving.h(109,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\allocator.h(199,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(448,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(456,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Environment.c(21,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Environment.c(22,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(262,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(260): message : while compiling class template member function 'void flann::lsh::LshTable<unsigned char>::initialize(size_t)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(360): message : see reference to function template instantiation 'void flann::lsh::LshTable<unsigned char>::initialize(size_t)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(358): message : see reference to class template instantiation 'flann::lsh::LshTable<unsigned char>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(340,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(313): message : while compiling class template member function 'int flann::NNIndex<Distance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<size_t> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(131): message : see reference to class template instantiation 'flann::NNIndex<Distance>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(130): message : while compiling class template member function 'flann::Index<flann::L2_Simple<float>>::~Index(void)'
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Tree.h(60): message : see reference to class template instantiation 'flann::Index<flann::L2_Simple<float>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(355,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Tree.c
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(427,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(445,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(576,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(613,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(627,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(652,1): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\serialization.h(690,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\saving.h(109,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\allocator.h(199,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(448,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(456,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Tree.c(127,70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(262,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(260): message : while compiling class template member function 'void flann::lsh::LshTable<unsigned char>::initialize(size_t)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(360): message : see reference to function template instantiation 'void flann::lsh::LshTable<unsigned char>::initialize(size_t)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(358): message : see reference to class template instantiation 'flann::lsh::LshTable<unsigned char>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(382,1): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(376): message : while compiling class template member function 'int flann::NNIndex<Distance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<int> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(260): message : see reference to function template instantiation 'int flann::NNIndex<Distance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<int> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(260): message : see reference to class template instantiation 'flann::NNIndex<Distance>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(259): message : while compiling class template member function 'int flann::Index<flann::L2_Simple<float>>::knnSearch(const flann::Matrix<float> &,flann::Matrix<int> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Tree.c(95): message : see reference to function template instantiation 'int flann::Index<flann::L2_Simple<float>>::knnSearch(const flann::Matrix<float> &,flann::Matrix<int> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const' being compiled
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Tree.h(60): message : see reference to class template instantiation 'flann::Index<flann::L2_Simple<float>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(340,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(313): message : while compiling class template member function 'int flann::NNIndex<Distance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<size_t> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(378): message : see reference to function template instantiation 'int flann::NNIndex<Distance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<size_t> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\nn_index.h(355,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(361,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(352): message : while compiling class template member function 'void flann::LshIndex<flann::DummyDistance>::buildIndexImpl(void)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(89): message : see reference to class template instantiation 'flann::LshIndex<flann::DummyDistance>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(119): message : see reference to class template instantiation 'flann::needs_kdtree_distance<flann::LshIndex<flann::DummyDistance>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(183): message : see reference to class template instantiation 'flann::valid_combination<flann::LshIndex,Distance,ElementType>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(96): message : see reference to function template instantiation 'flann::NNIndex<Distance> *flann::create_index_by_type<Distance>(const flann::flann_algorithm_t,const flann::Matrix<float> &,const flann::IndexParams &,const Distance &)' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\flann.hpp(83): message : while compiling class template member function 'flann::Index<flann::L2_Simple<float>>::Index(const flann::IndexParams &,Distance)'
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\RRT\Tree.c(60): message : see reference to function template instantiation 'flann::Index<flann::L2_Simple<float>>::Index(const flann::IndexParams &,Distance)' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(240,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(229): message : while compiling class template member function 'int flann::LshIndex<flann::DummyDistance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<size_t> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(246,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(248,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(255,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(263,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(213,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(212): message : while compiling class template member function 'int flann::LshIndex<flann::DummyDistance>::usedMemory(void) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(160,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(147): message : while compiling class template member function 'void flann::LshIndex<flann::DummyDistance>::addPoints(const flann::Matrix<float> &,float)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(316,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(306): message : while compiling class template member function 'void flann::HierarchicalClusteringIndex<flann::DummyDistance>::buildIndexImpl(void)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(89): message : see reference to class template instantiation 'flann::HierarchicalClusteringIndex<flann::DummyDistance>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(119): message : see reference to class template instantiation 'flann::needs_kdtree_distance<flann::HierarchicalClusteringIndex<flann::DummyDistance>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(180): message : see reference to class template instantiation 'flann::valid_combination<flann::HierarchicalClusteringIndex,Distance,ElementType>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(319,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_index.h(156,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_index.h(144): message : while compiling class template member function 'void flann::KDTreeIndex<flann::DummyDistance>::addPoints(const flann::Matrix<float> &,float)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\composite_index.h(172): message : see reference to function template instantiation 'void flann::KDTreeIndex<flann::DummyDistance>::addPoints(const flann::Matrix<float> &,float)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(89): message : see reference to class template instantiation 'flann::KDTreeIndex<flann::DummyDistance>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(119): message : see reference to class template instantiation 'flann::needs_kdtree_distance<flann::KDTreeIndex<flann::DummyDistance>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(160): message : see reference to class template instantiation 'flann::valid_combination<flann::KDTreeIndex,Distance,ElementType>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(244,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(240): message : while compiling class template member function 'void flann::KDTreeSingleIndex<flann::DummyDistance>::buildIndexImpl(void)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(89): message : see reference to class template instantiation 'flann::KDTreeSingleIndex<flann::DummyDistance>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(119): message : see reference to class template instantiation 'flann::needs_kdtree_distance<flann::KDTreeSingleIndex<flann::DummyDistance>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(157): message : see reference to class template instantiation 'flann::valid_combination<flann::KDTreeSingleIndex,Distance,ElementType>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(248,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(208,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(207): message : while compiling class template member function 'int flann::KDTreeSingleIndex<flann::DummyDistance>::usedMemory(void) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\result_set.h(805,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\result_set.h(802): message : while compiling class template member function 'void flann::KNNUniqueResultSet<float>::addPoint(DistanceType,size_t)'
+          with
+          [
+              DistanceType=float
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(240): message : see reference to class template instantiation 'flann::KNNUniqueResultSet<float>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(229): message : while compiling class template member function 'int flann::LshIndex<flann::DummyDistance>::knnSearch(const flann::Matrix<float> &,flann::Matrix<size_t> &,flann::Matrix<float> &,size_t,const flann::SearchParams &) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\result_set.h(742,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\result_set.h(741): message : while compiling class template member function 'void flann::UniqueResultSet<DistanceType>::copy(size_t *,DistanceType *,int,bool)'
+          with
+          [
+              DistanceType=float
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(246): message : see reference to function template instantiation 'void flann::UniqueResultSet<DistanceType>::copy(size_t *,DistanceType *,int,bool)' being compiled
+          with
+          [
+              DistanceType=float
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\result_set.h(786): message : see reference to class template instantiation 'flann::UniqueResultSet<DistanceType>' being compiled
+          with
+          [
+              DistanceType=float
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(196,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(190): message : while compiling class template member function 'void flann::lsh::LshTable<float>::add(const std::vector<std::pair<size_t,float *>,std::allocator<std::pair<size_t,float *>>> &)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(364): message : see reference to function template instantiation 'void flann::lsh::LshTable<float>::add(const std::vector<std::pair<size_t,float *>,std::allocator<std::pair<size_t,float *>>> &)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(361): message : see reference to class template instantiation 'flann::lsh::LshTable<float>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(352): message : while compiling class template member function 'void flann::LshIndex<flann::DummyDistance>::buildIndexImpl(void)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(165,1): warning C4267: 'initializing': conversion from 'size_t' to 'flann::lsh::BucketKey', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\lsh_table.h(163): message : while compiling class template member function 'void flann::lsh::LshTable<float>::add(unsigned int,const ElementType *)'
+          with
+          [
+              ElementType=float
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(160): message : see reference to function template instantiation 'void flann::lsh::LshTable<float>::add(unsigned int,const ElementType *)' being compiled
+          with
+          [
+              ElementType=float
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(500,1): warning C4267: 'argument': conversion from 'size_t' to 'flann::lsh::BucketKey', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(491): message : while compiling class template member function 'void flann::LshIndex<flann::DummyDistance>::getNeighbors(const float *,flann::ResultSet<float> &) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\lsh_index.h(343): message : see reference to function template instantiation 'void flann::LshIndex<flann::DummyDistance>::getNeighbors(const float *,flann::ResultSet<float> &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(636,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(623): message : while compiling class template member function 'void flann::HierarchicalClusteringIndex<flann::DummyDistance>::addPointToTree(flann::HierarchicalClusteringIndex<flann::DummyDistance>::Node *,size_t)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(222): message : see reference to function template instantiation 'void flann::HierarchicalClusteringIndex<flann::DummyDistance>::addPointToTree(flann::HierarchicalClusteringIndex<flann::DummyDistance>::Node *,size_t)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(638,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(651,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(989,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(972): message : while compiling class template member function 'void flann::KMeansIndex<flann::DummyDistance>::addPointToTree(flann::KMeansIndex<flann::DummyDistance>::Node *,size_t,float)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(228): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::addPointToTree(flann::KMeansIndex<flann::DummyDistance>::Node *,size_t,float)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(89): message : see reference to class template instantiation 'flann::KMeansIndex<flann::DummyDistance>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(119): message : see reference to class template instantiation 'flann::needs_kdtree_distance<flann::KMeansIndex<flann::DummyDistance>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(171): message : see reference to class template instantiation 'flann::valid_combination<flann::KMeansIndex,Distance,ElementType>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(993,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(1004,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(679,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(545): message : while compiling class template member function 'void flann::KMeansIndex<flann::DummyDistance>::computeClustering(flann::KMeansIndex<flann::DummyDistance>::Node *,int *,int,int)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(344): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::computeClustering(flann::KMeansIndex<flann::DummyDistance>::Node *,int *,int,int)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_index.h(697,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_index.h(666): message : while compiling class template member function 'void flann::KDTreeIndex<flann::DummyDistance>::addPointToTree(flann::KDTreeIndex<flann::DummyDistance>::Node *,int)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_index.h(156): message : see reference to function template instantiation 'void flann::KDTreeIndex<flann::DummyDistance>::addPointToTree(flann::KDTreeIndex<flann::DummyDistance>::Node *,int)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(577,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(572): message : while compiling class template member function 'float flann::KDTreeSingleIndex<flann::DummyDistance>::computeInitialDistances(const float *,std::vector<float,std::allocator<float>> &) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(225): message : see reference to function template instantiation 'float flann::KDTreeSingleIndex<flann::DummyDistance>::computeInitialDistances(const float *,std::vector<float,std::allocator<float>> &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(581,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(459,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(450): message : while compiling class template member function 'void flann::KDTreeSingleIndex<flann::DummyDistance>::middleSplit(int *,int,int &,int &,float &,const std::vector<flann::KDTreeSingleIndex<flann::DummyDistance>::Interval,std::allocator<flann::KDTreeSingleIndex<flann::DummyDistance>::Interval>> &)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(414): message : see reference to function template instantiation 'void flann::KDTreeSingleIndex<flann::DummyDistance>::middleSplit(int *,int,int &,int &,float &,const std::vector<flann::KDTreeSingleIndex<flann::DummyDistance>::Interval,std::allocator<flann::KDTreeSingleIndex<flann::DummyDistance>::Interval>> &)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(476,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kdtree_single_index.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(551,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(293): message : see reference to function template instantiation 'void flann::HierarchicalClusteringIndex<flann::DummyDistance>::findNeighborsWithRemoved<true>(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(293): message : see reference to function template instantiation 'void flann::HierarchicalClusteringIndex<flann::DummyDistance>::findNeighborsWithRemoved<true>(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\hierarchical_clustering_index.h(291): message : while compiling class template member function 'void flann::HierarchicalClusteringIndex<flann::DummyDistance>::findNeighbors(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\sampling.h(42,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\autotuned_index.h(658): message : see reference to function template instantiation 'flann::Matrix<float> flann::random_sample<float>(flann::Matrix<float> &,size_t,bool)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\autotuned_index.h(648): message : while compiling class template member function 'float flann::AutotunedIndex<flann::DummyDistance>::estimateSearchParams(flann::SearchParams &)'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\autotuned_index.h(147): message : see reference to function template instantiation 'float flann::AutotunedIndex<flann::DummyDistance>::estimateSearchParams(flann::SearchParams &)' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(89): message : see reference to class template instantiation 'flann::AutotunedIndex<flann::DummyDistance>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(119): message : see reference to class template instantiation 'flann::needs_kdtree_distance<flann::AutotunedIndex<flann::DummyDistance>>' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\all_indices.h(177): message : see reference to class template instantiation 'flann::valid_combination<flann::AutotunedIndex,Distance,ElementType>' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\util\sampling.h(49,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(857,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(723): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findExactNN<true>(flann::KMeansIndex<flann::DummyDistance>::Node *,flann::ResultSet<float> &,const float *) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(723): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findExactNN<true>(flann::KMeansIndex<flann::DummyDistance>::Node *,flann::ResultSet<float> &,const float *) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(286): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findNeighborsWithRemoved<true>(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(286): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findNeighborsWithRemoved<true>(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(284): message : while compiling class template member function 'void flann::KMeansIndex<flann::DummyDistance>::findNeighbors(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const'
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\composite_index.h(207): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findNeighbors(flann::ResultSet<float> &,const float *,const flann::SearchParams &) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(781,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(730): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findNN<true>(flann::KMeansIndex<flann::DummyDistance>::Node *,flann::ResultSet<float> &,const float *,int &,int,flann::Heap<flann::BranchStruct<flann::KMeansIndex<flann::DummyDistance>::Node *,float>> *) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(730): message : see reference to function template instantiation 'void flann::KMeansIndex<flann::DummyDistance>::findNN<true>(flann::KMeansIndex<flann::DummyDistance>::Node *,flann::ResultSet<float> &,const float *,int &,int,flann::Heap<flann::BranchStruct<flann::KMeansIndex<flann::DummyDistance>::Node *,float>> *) const' being compiled
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\nn\ground_truth.h(47,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\nn\ground_truth.h(91): message : see reference to function template instantiation 'void flann::find_nearest<Distance>(const flann::Matrix<float> &,flann::DummyDistance::ElementType *,size_t *,size_t,size_t,Distance)' being compiled
+          with
+          [
+              Distance=flann::DummyDistance
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\autotuned_index.h(670): message : see reference to function template instantiation 'void flann::compute_ground_truth<Distance>(const flann::Matrix<float> &,const flann::Matrix<float> &,flann::Matrix<size_t> &,int,Distance)' being compiled
+          with
+          [
+              Distance=flann::DummyDistance
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\nn\ground_truth.h(60,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\nn\ground_truth.h(65,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\nn\index_testing.h(121,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\nn\index_testing.h(176): message : see reference to function template instantiation 'float flann::search_with_ground_truth<Index,Distance>(Index &,const flann::Matrix<float> &,const flann::Matrix<float> &,const flann::Matrix<size_t> &,int,int,float &,flann::DummyDistance::ResultType &,const Distance &,int)' being compiled
+          with
+          [
+              Index=flann::KMeansIndex<flann::DummyDistance>,
+              Distance=flann::DummyDistance
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\autotuned_index.h(688): message : see reference to function template instantiation 'float flann::test_index_precision<flann::KMeansIndex<flann::DummyDistance>,Distance>(Index &,const flann::Matrix<float> &,const flann::Matrix<float> &,const flann::Matrix<size_t> &,float,int &,const Distance &,int,int)' being compiled
+          with
+          [
+              Distance=flann::DummyDistance,
+              Index=flann::KMeansIndex<flann::DummyDistance>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\dist.h(87,25): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(588): message : see reference to function template instantiation 'float flann::L2_Simple<float>::operator ()<_Ty,T*>(Iterator1,Iterator2,size_t,float) const' being compiled
+          with
+          [
+              _Ty=float *,
+              T=double,
+              Iterator1=float *,
+              Iterator2=double *
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(588): message : see reference to function template instantiation 'float flann::L2_Simple<float>::operator ()<_Ty,T*>(Iterator1,Iterator2,size_t,float) const' being compiled
+          with
+          [
+              _Ty=float *,
+              T=double,
+              Iterator1=float *,
+              Iterator2=double *
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(545): message : while compiling class template member function 'void flann::KMeansIndex<Distance>::computeClustering(flann::KMeansIndex<Distance>::Node *,int *,int,int)'
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+C:\Program Files (x86)\vcpkg\installed\x64-windows\include\flann\algorithms\kmeans_index.h(344): message : see reference to function template instantiation 'void flann::KMeansIndex<Distance>::computeClustering(flann::KMeansIndex<Distance>::Node *,int *,int,int)' being compiled
+          with
+          [
+              Distance=flann::L2_Simple<float>
+          ]
+  Generating Code...
+     Creating library C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\x64\Debug\RRT.lib and object C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\x64\Debug\RRT.exp
+  RRT.vcxproj -> C:\Users\anton\Desktop\RoboIme\rrt-dll(cpp)\SSL_RRT\x64\Debug\RRT.dll

@@ -1,0 +1,2 @@
+#define TEMPLATE_API __declspec(dllexport)
+#define TEMPLATE_API __declspec(dllimport)

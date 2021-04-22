@@ -1,0 +1,247 @@
+﻿  pch.cpp
+  controller.cpp
+C:\Users\pedro\Desktop\SSL_RRT\UVF\controller.cpp(17,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\controller.cpp(50,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\controller.cpp(58,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(167,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(846): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Exact_args_t,double,float,float,0>(_Tag,_This2 &&,float &&,float &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(846): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Exact_args_t,double,float,float,0>(_Tag,_This2 &&,float &&,float &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(256): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<double,float,float>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,float,float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(256): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<double,float,float>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,float,float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(383): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,std::tuple<double,float,float>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,float,float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(383): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,std::tuple<double,float,float>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,float,float>
+          ]
+C:\Users\pedro\Desktop\SSL_RRT\UVF\controller.cpp(19): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<double,float,float,0>(std::tuple<double,float,float> &&) noexcept' being compiled
+C:\Users\pedro\Desktop\SSL_RRT\UVF\controller.cpp(19): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<double,float,float,0>(std::tuple<double,float,float> &&) noexcept' being compiled
+  dllmain.cpp
+  uvf.cpp
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(9,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(24,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(28,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(31,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(34,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(41,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(68,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(69,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(74,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(85,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(87,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(107,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(112,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(135,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(140,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(149,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(167,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(846): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<std::_Exact_args_t,double,std::tuple<float,float>,float,0>(_Tag,_This2 &&,std::tuple<float,float> &&,float &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(846): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<std::_Exact_args_t,double,std::tuple<float,float>,float,0>(_Tag,_This2 &&,std::tuple<float,float> &&,float &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(256): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<double,std::tuple<float,float>,float>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,std::tuple<float,float>,float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(256): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<double,std::tuple<float,float>,float>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,std::tuple<float,float>,float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(383): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<std::_Unpack_tuple_t,std::tuple<double,std::tuple<float,float>,float>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,std::tuple<float,float>,float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(383): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<std::_Unpack_tuple_t,std::tuple<double,std::tuple<float,float>,float>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<double,std::tuple<float,float>,float>
+          ]
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(117): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<double,std::tuple<float,float>,float,0>(std::tuple<double,std::tuple<float,float>,float> &&) noexcept' being compiled
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(117): message : see reference to function template instantiation 'std::tuple<float,std::tuple<float,float>,float>::tuple<double,std::tuple<float,float>,float,0>(std::tuple<double,std::tuple<float,float>,float> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(167,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::tuple<float>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::tuple<float>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::tuple<float,float>::tuple<std::_Exact_args_t,_Ty,int,0>(_Tag,_This2 &&,int &&)' being compiled
+          with
+          [
+              _Ty=float,
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(249): message : see reference to function template instantiation 'std::tuple<float,float>::tuple<std::_Exact_args_t,_Ty,int,0>(_Tag,_This2 &&,int &&)' being compiled
+          with
+          [
+              _Ty=float,
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(846): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Exact_args_t,float,float,int,0>(_Tag,_This2 &&,float &&,int &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(846): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Exact_args_t,float,float,int,0>(_Tag,_This2 &&,float &&,int &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(256): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<float,float,int>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<float,float,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(256): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<float,float,int>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<float,float,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(383): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,std::tuple<float,float,int>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<float,float,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(383): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<std::_Unpack_tuple_t,std::tuple<float,float,int>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<float,float,int>
+          ]
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(50): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<float,float,int,0>(std::tuple<float,float,int> &&) noexcept' being compiled
+C:\Users\pedro\Desktop\SSL_RRT\UVF\uvf.cpp(50): message : see reference to function template instantiation 'std::tuple<float,float,float>::tuple<float,float,int,0>(std::tuple<float,float,int> &&) noexcept' being compiled
+     Creating library C:\Users\pedro\Desktop\SSL_RRT\Release\UVF.lib and object C:\Users\pedro\Desktop\SSL_RRT\Release\UVF.exp
+  Generating code
+  5 of 272 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UVF.vcxproj -> C:\Users\pedro\Desktop\SSL_RRT\Release\UVF.dll
