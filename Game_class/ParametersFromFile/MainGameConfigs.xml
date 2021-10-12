@@ -61,7 +61,7 @@
 <Name>Side</Name>
 <Choice>Esquerdo</Choice>
 <Choice>Direito</Choice>
-<Val>0/Val>
+<Val>0</Val>
 </EW>
 <EW>
 <Name>Team</Name>
