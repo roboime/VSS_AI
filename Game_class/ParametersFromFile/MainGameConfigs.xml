@@ -67,6 +67,6 @@
 <Name>Team</Name>
 <Choice>Azul</Choice>
 <Choice>Amarelo</Choice>
-<Val>1</Val>
+<Val>0</Val>
 </EW>
 </Cluster>
