@@ -42,7 +42,7 @@
 </Boolean>
 <String>
 <Name>Address:</Name>
-<Val>172.31.92.163</Val>
+<Val>3.90.69.89</Val>
 </String>
 <U16>
 <Name>Port:</Name>
@@ -61,12 +61,12 @@
 <Name>Side</Name>
 <Choice>Esquerdo</Choice>
 <Choice>Direito</Choice>
-<Val>1</Val>
+<Val>0</Val>
 </EW>
 <EW>
 <Name>Team</Name>
 <Choice>Azul</Choice>
 <Choice>Amarelo</Choice>
-<Val>1</Val>
+<Val>0</Val>
 </EW>
 </Cluster>
