@@ -6,7 +6,7 @@
 <NumElts>3</NumElts>
 <String>
 <Name>Local IP:</Name>
-<Val>172.31.92.163</Val>
+<Val></Val>
 </String>
 <I32>
 <Name>Port</Name>
@@ -42,7 +42,7 @@
 </Boolean>
 <String>
 <Name>Address:</Name>
-<Val>3.90.69.89</Val>
+<Val>172.31.92.163</Val>
 </String>
 <U16>
 <Name>Port:</Name>
@@ -61,12 +61,12 @@
 <Name>Side</Name>
 <Choice>Esquerdo</Choice>
 <Choice>Direito</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
 <EW>
 <Name>Team</Name>
 <Choice>Azul</Choice>
 <Choice>Amarelo</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
 </Cluster>
