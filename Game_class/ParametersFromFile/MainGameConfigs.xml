@@ -42,7 +42,7 @@
 </Boolean>
 <String>
 <Name>Address:</Name>
-<Val>172-31-87-8</Val>
+<Val>172.31.87.8</Val>
 </String>
 <U16>
 <Val>20011</Val>
