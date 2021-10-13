@@ -61,12 +61,12 @@
 <Name>Side</Name>
 <Choice>Esquerdo</Choice>
 <Choice>Direito</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
 <EW>
 <Name>Team</Name>
 <Choice>Azul</Choice>
 <Choice>Amarelo</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
 </Cluster>
