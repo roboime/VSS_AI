@@ -42,10 +42,9 @@
 </Boolean>
 <String>
 <Name>Address:</Name>
-<Val>172.31.92.163</Val>
+<Val>172-31-87-8</Val>
 </String>
 <U16>
-<Name>Port:</Name>
 <Val>20011</Val>
 </U16>
 </Cluster>
