@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="22308000">
+<Project Type="Project" LVVersion="23008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -223,8 +223,8 @@
 		<Item Name="NewVSSNavigation.vi" Type="VI" URL="../Game_class/Navigation/VSSNavigation/NewVSSNavigation.vi"/>
 		<Item Name="NewVSS_GoTo.vi" Type="VI" URL="../Game_class/Navigation/VSSNavigation/NewVSS_GoTo.vi"/>
 		<Item Name="sendVSSRefPlacement.vi" Type="VI" URL="../Communication_class/sendVSSRefPlacement.vi"/>
-		<Item Name="RRTAlgorithm2.vi" Type="VI" URL="../Game_class/PathPlanning/Path Planning/RRT/RRTAlgorithm2.vi"/>
 		<Item Name="MainGameConfig.ctl" Type="VI" URL="../Game_class/ParametersFromFile/MainGameConfig.ctl"/>
+		<Item Name="RRTAlgorithm2.vi" Type="VI" URL="../Game_class/PathPlanning/Path Planning/RRT/RRTAlgorithm2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3GOOPCallChain.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPCallChain.vi"/>
@@ -272,6 +272,11 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="3GOOPClassInfoTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPClassInfoTypeDef.ctl"/>
+				<Item Name="3GOOPSharedInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPSharedInfo.ctl"/>
+				<Item Name="3GOOPObjectInfoType.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPObjectInfoType.ctl"/>
+				<Item Name="3GOOPSetError.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPSetError.vi"/>
+				<Item Name="3GOOPVersion.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPVersion.vi"/>
 			</Item>
 			<Item Name="BackTracking.vi" Type="VI" URL="../Game_class/PathPlanning/Path Planning/RRT/BackTracking.vi"/>
 			<Item Name="Bool Encoder.vi" Type="VI" URL="../Communication_class/Paths/MessageAI_State Folder/Bool Encoder.vi"/>
@@ -506,6 +511,11 @@
 			<Item Name="RefereeVSS.vi" Type="VI" URL="../Vision_class/Old vision/Decode SSL and Refree Wrapper Package Folder/RefereeVSS.vi"/>
 			<Item Name="ParametersFromFile.ctl" Type="VI" URL="../Game_class/ParametersFromFile/ParametersFromFile.ctl"/>
 			<Item Name="Command.ctl" Type="VI" URL="../Command.ctl"/>
+			<Item Name="RRTOutput.ctl" Type="VI" URL="../RRT/RRTOutput.ctl"/>
+			<Item Name="RRTInput.ctl" Type="VI" URL="../RRT/RRTInput.ctl"/>
+			<Item Name="RRTWrapper.vi" Type="VI" URL="../RRT/RRTWrapper.vi"/>
+			<Item Name="RRTAsynCall.vi" Type="VI" URL="../RRT/RRTAsynCall.vi"/>
+			<Item Name="RRT.dll" Type="Document" URL="../RRT/DLL-RRT/x64/RRT.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="winPhoenix" Type="EXE">
