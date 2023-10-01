@@ -516,6 +516,7 @@
 			<Item Name="RRTWrapper.vi" Type="VI" URL="../RRT/RRTWrapper.vi"/>
 			<Item Name="RRTAsynCall.vi" Type="VI" URL="../RRT/RRTAsynCall.vi"/>
 			<Item Name="RRT.dll" Type="Document" URL="../RRT/DLL-RRT/x64/RRT.dll"/>
+			<Item Name="VSS_Ref.ctl" Type="VI" URL="../Referee_class/VSS_Ref.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="winPhoenix" Type="EXE">
