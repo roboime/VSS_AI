@@ -225,6 +225,7 @@
 		<Item Name="sendVSSRefPlacement.vi" Type="VI" URL="../Communication_class/sendVSSRefPlacement.vi"/>
 		<Item Name="MainGameConfig.ctl" Type="VI" URL="../Game_class/ParametersFromFile/MainGameConfig.ctl"/>
 		<Item Name="RRTAlgorithm2.vi" Type="VI" URL="../Game_class/PathPlanning/Path Planning/RRT/RRTAlgorithm2.vi"/>
+		<Item Name="DefendGoalStates.ctl" Type="VI" URL="../DefendGoalTacticVSS_class/DefendGoalStates.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3GOOPCallChain.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPCallChain.vi"/>
@@ -516,7 +517,7 @@
 			<Item Name="RRTWrapper.vi" Type="VI" URL="../RRT/RRTWrapper.vi"/>
 			<Item Name="RRTAsynCall.vi" Type="VI" URL="../RRT/RRTAsynCall.vi"/>
 			<Item Name="RRT.dll" Type="Document" URL="../RRT/DLL-RRT/x64/RRT.dll"/>
-			<Item Name="VSS_Ref.ctl" Type="VI" URL="../Referee_class/VSS_Ref.ctl"/>
+			<Item Name="VSS_Ref.ctl" Type="VI" URL="../../../OneDrive/Área de Trabalho/VSS_AI-main/Referee_class/VSS_Ref.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="winPhoenix" Type="EXE">
