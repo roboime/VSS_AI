@@ -6,7 +6,7 @@
 <NumElts>3</NumElts>
 <String>
 <Name>Local IP:</Name>
-<Val></Val>
+<Val>172.25.128.1</Val>
 </String>
 <I32>
 <Name>Port</Name>
@@ -42,7 +42,7 @@
 </Boolean>
 <String>
 <Name>Address:</Name>
-<Val>172.31.92.163</Val>
+<Val>172.25.133.169</Val>
 </String>
 <U16>
 <Name>Port:</Name>
