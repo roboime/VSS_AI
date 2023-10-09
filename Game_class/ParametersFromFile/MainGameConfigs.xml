@@ -6,15 +6,15 @@
 <NumElts>3</NumElts>
 <String>
 <Name>Local IP:</Name>
-<Val>192.168.1.101</Val>
+<Val>172.25.128.1</Val>
 </String>
 <I32>
 <Name>Port</Name>
-<Val>10321</Val>
+<Val>10002</Val>
 </I32>
 <String>
 <Name>Server IP:</Name>
-<Val>224.5.23.2</Val>
+<Val>224.0.0.1</Val>
 </String>
 </Cluster>
 <Cluster>
@@ -38,7 +38,7 @@
 <NumElts>3</NumElts>
 <Boolean>
 <Name>UDP GrSim TX</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 <String>
 <Name>Address:</Name>
