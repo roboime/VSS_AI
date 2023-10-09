@@ -226,6 +226,8 @@
 		<Item Name="MainGameConfig.ctl" Type="VI" URL="../Game_class/ParametersFromFile/MainGameConfig.ctl"/>
 		<Item Name="RRTAlgorithm2.vi" Type="VI" URL="../Game_class/PathPlanning/Path Planning/RRT/RRTAlgorithm2.vi"/>
 		<Item Name="DefendGoalStates.ctl" Type="VI" URL="../DefendGoalTacticVSS_class/DefendGoalStates.ctl"/>
+		<Item Name="VSS Robot Comand.vi" Type="VI" URL="../VSS Robot Comand.vi"/>
+		<Item Name="EloMec Tester.vi" Type="VI" URL="../EloMec Tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3GOOPCallChain.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPCallChain.vi"/>
@@ -278,6 +280,11 @@
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
+				<Item Name="3GOOPClassInfoTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPClassInfoTypeDef.ctl"/>
+				<Item Name="3GOOPSharedInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPSharedInfo.ctl"/>
+				<Item Name="3GOOPObjectInfoType.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPObjectInfoType.ctl"/>
+				<Item Name="3GOOPSetError.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPSetError.vi"/>
+				<Item Name="3GOOPVersion.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_goop3.llb/3GOOPVersion.vi"/>
 			</Item>
 			<Item Name="BackTracking.vi" Type="VI" URL="../Game_class/PathPlanning/Path Planning/RRT/BackTracking.vi"/>
 			<Item Name="Bool Encoder.vi" Type="VI" URL="../Communication_class/Paths/MessageAI_State Folder/Bool Encoder.vi"/>
@@ -517,7 +524,13 @@
 			<Item Name="RRTWrapper.vi" Type="VI" URL="../RRT/RRTWrapper.vi"/>
 			<Item Name="RRTAsynCall.vi" Type="VI" URL="../RRT/RRTAsynCall.vi"/>
 			<Item Name="RRT.dll" Type="Document" URL="../RRT/DLL-RRT/x64/RRT.dll"/>
-			<Item Name="VSS_Ref.ctl" Type="VI" URL="../Referee_class/VSS_Ref.ctl"/>
+			<Item Name="VSS_Ref.ctl" Type="VI" URL="../../../OneDrive/Área de Trabalho/VSS_AI-main/Referee_class/VSS_Ref.ctl"/>
+			<Item Name="AI Robot.ctl" Type="VI" URL="../Core/AI Robot.ctl"/>
+			<Item Name="Functions Enum.ctl" Type="VI" URL="../Intel/Functions Enum.ctl"/>
+			<Item Name="AttackerStates.ctl" Type="VI" URL="../Intel/AttackerStates.ctl"/>
+			<Item Name="PathDests.ctl" Type="VI" URL="../Path Planning/RRT/PathDests.ctl"/>
+			<Item Name="PathDest.ctl" Type="VI" URL="../Path Planning/RRT/PathDest.ctl"/>
+			<Item Name="Robot Command.vi" Type="VI" URL="../Robot Command.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="winPhoenix" Type="EXE">
