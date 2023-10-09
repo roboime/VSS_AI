@@ -531,7 +531,6 @@
 			<Item Name="PathDests.ctl" Type="VI" URL="../Path Planning/RRT/PathDests.ctl"/>
 			<Item Name="PathDest.ctl" Type="VI" URL="../Path Planning/RRT/PathDest.ctl"/>
 			<Item Name="Robot Command.vi" Type="VI" URL="../Robot Command.vi"/>
-			<Item Name="VSS_Ref.ctl" Type="VI" URL="../Referee_class/VSS_Ref.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="winPhoenix" Type="EXE">
